@@ -2,13 +2,15 @@
 #### ME-495 Final Project, Fall 2018, Northwestern University
 #### Group members: Mark Dyehouse, Veronica Medrano, Huan Weng, Chenge Yang, Guo Ye
 -----------------------------------------------------------------------------------------
-## Demo Video:
+## Demo Video
+<div align = "center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=AccB97JPMUE
 " target="_blank"><img src="http://img.youtube.com/vi/AccB97JPMUE/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="640" height="480" border="10" /></a>
+</div>
 
-## Demo Drawings:
-<p align = "left">
+## Demo Drawings
+<p align = "center">
   <img src = "images/demo/demo_1.jpg" height = "300px">
   <img src = "images/demo/demo_2.jpg" height = "300px">
   <img src = "images/demo/demo_3.jpg" height = "300px">
