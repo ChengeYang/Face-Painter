@@ -1,4 +1,4 @@
-# Face Painter
+# Sawyer Face Painter
 #### ME-495 Final Project, Fall 2018, Northwestern University
 #### Group members: Mark Dyehouse, Veronica Medrano, Huan Weng, Chenge Yang, Guo Ye
 -----------------------------------------------------------------------------------------
